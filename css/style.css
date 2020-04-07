@@ -10,6 +10,34 @@ body {
     max-width: 80%;
     margin: 20px auto;
 }
+<<<<<<< HEAD
 p {
     text-align: left;
 }
+=======
+.header {
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    max-width: initial;
+    height: 60px;
+    align-items: center;
+    box-shadow:1px 6px 40px 16px rgb(0, 0, 0, 0.83); ;
+}
+.header h1 {
+margin: 0 0.5em;
+}
+.list-items {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    margin: 0 ;
+}
+.list-items h4 {
+    margin: 0;
+}
+.list-items li {
+    margin: 0 0.5em;
+}
+>>>>>>> cabecera
