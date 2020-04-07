@@ -10,7 +10,7 @@ body {
     margin: 20px auto;
 }
 .header {
-    background-color: blueviolet;
+    background-color: rgb(61, 155, 139, 0.85);
     color: white;
     display: flex;
     justify-content: space-between;
@@ -21,6 +21,7 @@ body {
 }
 .header h1 {
 margin: 0 0.5em;
+font-size: 1.5em;
 }
 .list-items {
     display: flex;
@@ -33,4 +34,9 @@ margin: 0 0.5em;
 }
 .list-items li {
     margin: 0 0.5em;
+}
+.contenido {
+    background-color: lightcoral;
+    padding: 1em;
+    opacity: 0.78;
 }
