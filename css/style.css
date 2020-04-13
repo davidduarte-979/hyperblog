@@ -24,6 +24,9 @@ body {
 margin: 0 0.5em;
 font-size: 1.5em;
 }
+.header img {
+    width: 130px;
+}
 .list-items {
     display: flex;
     text-decoration: none;
@@ -36,6 +39,7 @@ font-size: 1.5em;
 .list-items li {
     margin: 0 0.5em;
 }
+
 .contenido {
     background-color: lightcoral;
     padding: 1em;
