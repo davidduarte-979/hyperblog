@@ -10,6 +10,7 @@ body {
     max-width: 80%;
     margin: 20px auto;
 }
+
 .header {
     background-color: rgb(61, 155, 139, 0.85);
     color: white;
@@ -40,4 +41,34 @@ font-size: 1.5em;
     background-color: lightcoral;
     padding: 1em;
     opacity: 0.78;
+}
+footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+.container1 {   
+    height: 100px;
+      color: white;
+      display: inherit;
+      justify-content: inherit;
+      border: 1px solid red;
+      text-align: center;
+      max-width: 100%;
+      margin: 0;
+      background-color: black;
+      align-items: inherit;
+      padding: 0 18px;
+    }
+p{
+    margin: 0;
+    display: inherit;
+    justify-content: inherit;
+    align-items: inherit;
+}
+.container1 div {
+    display: inherit;
+    justify-content: inherit;
+    align-items: inherit;
+    margin: 10px;
 }
