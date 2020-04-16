@@ -11,6 +11,7 @@
 > - Codigos dcesde la terminal
 > - git Push
 > - git Pull
-> - y comandos locos como ```
+> - y comandos locos como 
+```
 $ git log --all --graph --decorate --oneline
 ```
