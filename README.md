@@ -16,3 +16,4 @@
 $ git log --all --graph --decorate --oneline
 ```
 > - Integracion del comando git cherry-pick
+> - Ejemplos en Ubuntu y Windows
