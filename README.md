@@ -17,3 +17,4 @@ $ git log --all --graph --decorate --oneline
 ```
 > - Integracion del comando git cherry-pick
 > - Ejemplos en Ubuntu y Windows
+> - Jesus es el camino, la verdad y la vida 
